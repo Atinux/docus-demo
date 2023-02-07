@@ -40,24 +40,7 @@
         "href": "https://docus.dev"
       },
       "textLinks": [],
-      "iconLinks": [
-        {
-          "href": "https://nuxt.com",
-          "icon": "IconNuxtLabs"
-        },
-        {
-          "href": "https://nuxt.com",
-          "icon": "IconNuxtLabs"
-        },
-        {
-          "href": "https://nuxt.com",
-          "icon": "IconNuxtLabs"
-        },
-        {
-          "href": "https://nuxt.com",
-          "icon": "IconNuxtLabs"
-        }
-      ],
+      "iconLinks": [],
       "fluid": false
     },
     "github": {
